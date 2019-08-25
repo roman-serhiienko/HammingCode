@@ -1,0 +1,2 @@
+# HammingCode
+Hamming Code demo
